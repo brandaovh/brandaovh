@@ -4,7 +4,7 @@ Welcome to my GitHub! My name is **Victor Hugo Brandao**, I am from Georgian Col
 
 In the past, I've worked in customer service 🗣️ and operations in the tech and travel ✈️ industries. Now, I'm excited to transition my career into the world of data.
 
-I'm really passionate about data architecture, engineering, coding, and data visualization. Right now, I'm diving into Python, SQL, C#, and Spark. Check out my portfolio and see some of the projects I've worked on:
+I'm really passionate about data architecture, engineering, programming, and data visualization. Right now, I'm diving into Python, SQL, C#, and PySpark. Check out my portfolio and see some of the projects I've worked on:
 
 [My Portfolio](https://brandaovh.me)
 
