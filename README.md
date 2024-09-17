@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! My name is **Victor Hugo Brandao**, I am from Georgian College taking my postgrad certificate 🎓 in Big Data Analytics. 🔍
+Welcome to my GitHub! My name is **Victor Hugo Brandao**, I am a recent postgrad 🎓 in Big Data Analytics at Georgian College 🔍.
 
 In the past, I've worked in customer service 🗣️ and operations in the tech and travel ✈️ industries. Now, I'm excited to transition my career into the world of data.
 
